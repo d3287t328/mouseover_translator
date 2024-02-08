@@ -89,6 +89,7 @@ languages = [
     'Spanish',
     'German',
     'Italian',
+    'Latin',
     'Portuguese',
     'Russian',
     'Ukrainian',
